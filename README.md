@@ -5,7 +5,7 @@ This repository is a collection of some of my key learnings during my January 20
 ## Overview of Apprenticeship
 - **Host Company**: HP Inc.
 - **Duration**: January 2025 - April 2026
-- **Link to Portfolio Website**: [LinkedIn](https://www.linkedin.com/in/brianna-daniels/)
+- [LinkedIn](https://www.linkedin.com/in/brianna-daniels/)
 
 ## Portfolio Introduction
 
