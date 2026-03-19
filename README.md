@@ -32,3 +32,10 @@ My technical interests center on the intersection of **cloud technologies**, **a
 **Certifications**: Google Cybersecurity Certification (December 2025)
 
 My goal is to continue building expertise in cloud-native development, AI/ML engineering, and security automation while creating solutions that make complex systems more accessible and efficient for both technical and non-technical users.
+
+##  Deployed Projects
+
+### Hackathon Project
+- **Live Demo**: [https://hackathon-project-2885.onrender.com/](https://hackathon-project-2885.onrender.com/)
+
+
