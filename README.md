@@ -16,7 +16,7 @@ I'm Briana Daniels, a Software Engineer Apprentice at HP Inc. with a unique back
 I pursued this apprenticeship to gain comprehensive, end-to-end experience in software engineering as someone without traditional coding background. Coming from roles in supply chain analytics, ERP training, and business intelligence, I saw firsthand how technology transforms operations and empowers teams. I wanted to move from being a user and analyst of these systems to becoming someone who builds them. This apprenticeship has allowed me to develop technical skills in cloud architecture, automation, and AI while applying my analytical mindset and cross-functional collaboration experience to create impactful engineering solutions.
 
 ### Teams I've Worked On
-I currently work on HP's **Cybersecurity Identity and Access Management Team**, where I focus on automation, QA, AWS infrastructure, and AI-powered workflows.
+I currently work on the **Identity and Access Management Team**, where I focus on automation, QA, AWS infrastructure, and AI-powered workflows.
 
 ### Areas of Interest
 My technical interests center on the intersection of **cloud technologies**, **automation**, and **artificial intelligence**:
