@@ -233,17 +233,30 @@ section {
 .main-content h2 {
   font-size: 3rem;
   font-weight: 800;
-  color: var(--text-dark);
+  color: var(--primary-pink);
   margin: 0 0 3rem 0;
   border: none;
   letter-spacing: -1px;
+  text-align: center;
 }
 
 .main-content h3 {
   font-size: 1.6rem;
   font-weight: 700;
-  color: var(--text-dark);
+  color: var(--primary-pink);
   margin: 1.5rem 0 1rem 0;
+  text-align: center;
+}
+
+.main-content h3 a {
+  color: var(--primary-pink);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.main-content h3 a:hover {
+  color: var(--dark-pink);
+  text-decoration: underline;
 }
 
 .main-content h4 {
