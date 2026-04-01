@@ -3,21 +3,6 @@ layout: default
 title: Briana Daniels - Software Engineering Portfolio
 ---
 
-
-    
-    <div class="hero-buttons">
-      <a href="#projects" class="btn-primary">View My Work</a>
-      <a href="#contact" class="btn-secondary">Let's Connect</a>
-    </div>
-    
-    <div class="hero-social">
-      <a href="https://github.com/briprogramming" target="_blank" aria-label="GitHub">GitHub</a>
-      <a href="https://www.linkedin.com/in/brianna-daniels/" target="_blank" aria-label="LinkedIn">LinkedIn</a>
-    </div>
-  </div>
-
----
-
 <section id="about" class="about-section">
 
 <h2 style="text-align: center;">About Me</h2>
