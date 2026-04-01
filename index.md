@@ -17,31 +17,103 @@ With over 8 years of professional experience spanning transportation logistics, 
 
 <h2 style="text-align: center;">Tech Stack</h2>
 
-<div class="tech-grid">
-  <div class="tech-badge">JavaScript</div>
-  <div class="tech-badge">TypeScript</div>
-  <div class="tech-badge">Python</div>
-  <div class="tech-badge">SQL</div>
-  <div class="tech-badge">React 19</div>
-  <div class="tech-badge">Node.js</div>
-  <div class="tech-badge">Express</div>
-  <div class="tech-badge">AWS Lambda</div>
-  <div class="tech-badge">DynamoDB</div>
-  <div class="tech-badge">CloudWatch</div>
-  <div class="tech-badge">API Gateway</div>
-  <div class="tech-badge">PostgreSQL</div>
-  <div class="tech-badge">Docker</div>
-  <div class="tech-badge">Git</div>
-  <div class="tech-badge">GitHub Actions</div>
-  <div class="tech-badge">Material UI</div>
-  <div class="tech-badge">Tailwind CSS</div>
-  <div class="tech-badge">OAuth 2.0</div>
-  <div class="tech-badge">JWT</div>
-  <div class="tech-badge">OpenAI API</div>
-  <div class="tech-badge">Power BI</div>
-  <div class="tech-badge">JIRA</div>
-  <div class="tech-badge">VS Code</div>
-  <div class="tech-badge">SAP S/4HANA</div>
+<div class="tech-grid-icons">
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" class="tech-icon">
+    <span>JavaScript</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" class="tech-icon">
+    <span>TypeScript</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/python" alt="Python" class="tech-icon">
+    <span>Python</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" class="tech-icon">
+    <span>SQL</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/react" alt="React" class="tech-icon">
+    <span>React 19</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" class="tech-icon">
+    <span>Node.js</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" class="tech-icon">
+    <span>Express</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" class="tech-icon">
+    <span>AWS Lambda</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/amazondynamodb" alt="DynamoDB" class="tech-icon">
+    <span>DynamoDB</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/amazoncloudwatch" alt="CloudWatch" class="tech-icon">
+    <span>CloudWatch</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/amazonapigateway" alt="API Gateway" class="tech-icon">
+    <span>API Gateway</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" class="tech-icon">
+    <span>PostgreSQL</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/docker" alt="Docker" class="tech-icon">
+    <span>Docker</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/git" alt="Git" class="tech-icon">
+    <span>Git</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" class="tech-icon">
+    <span>GitHub Actions</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/mui" alt="Material UI" class="tech-icon">
+    <span>Material UI</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" class="tech-icon">
+    <span>Tailwind CSS</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/auth0/EB5424" alt="OAuth 2.0" class="tech-icon">
+    <span>OAuth 2.0</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" class="tech-icon">
+    <span>JWT</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" class="tech-icon">
+    <span>OpenAI API</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" class="tech-icon">
+    <span>Power BI</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/jira" alt="JIRA" class="tech-icon">
+    <span>JIRA</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" class="tech-icon">
+    <span>VS Code</span>
+  </div>
+  <div class="tech-card">
+    <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" class="tech-icon">
+    <span>SAP S/4HANA</span>
+  </div>
 </div>
 
 </section>
