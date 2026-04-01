@@ -450,9 +450,14 @@ section {
 }
 
 .tech-icon {
-  width: 16px;
-  height: 16px;
+  width: 16px !important;
+  height: 16px !important;
+  min-width: 16px;
+  min-height: 16px;
+  max-width: 16px;
+  max-height: 16px;
   object-fit: contain;
+  flex-shrink: 0;
 }
 
 .tech-card span {
